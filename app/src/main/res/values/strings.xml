@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikacja</string>
+    <string name="button">Suma</string>
+    <string name="clear">Kasuj</string>
+    <string name="editText1">Pierwsza liczba</string>
+    <string name="editText2">Druga liczba</string>
+</resources>
